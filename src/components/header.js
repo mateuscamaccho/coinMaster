@@ -12,6 +12,11 @@ function Header() {
                 <ul>
                     <li>
                         <a href='https://google.com'>
+                           C&M
+                        </a>
+                    </li>
+                    <li>
+                        <a href='https://google.com'>
                             <div className={styles.container_icon}>
                                 <AiOutlineHome className={styles.menu_icon} />
                             </div>
